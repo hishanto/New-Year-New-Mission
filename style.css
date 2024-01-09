@@ -55,10 +55,18 @@ line-height: normal;
 }
 .midAdd2{
     color: #070211;
-text-align: center;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.newyearwish{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    background-image: url("resources/New Year Photo.png");
+    background-position: center;
+
 }
