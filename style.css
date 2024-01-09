@@ -1,0 +1,45 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+header{
+    color: #fff;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+}
+.hTitle{
+    
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.newYear{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+}
+.banner{
+    background-image: url("resources/Banner Image.png");
+    background-repeat: no-repeat;
+    background-size: auto 100% 100%;
+    background-position: center;
+    
+}
+.discount{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
